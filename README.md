@@ -8,3 +8,6 @@
 
 ## 시연 URL
 ### https://jp5hpk6nq9mutcxnk9hecv.streamlit.app/
+
+## 시연 영상
+![ABD103AD-814D-4D94-9633-C3D59081D1AE_1_102_o](https://github.com/user-attachments/assets/7886d7e6-0f0a-42af-a019-0ca4743847ee)
